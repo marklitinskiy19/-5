@@ -1,5 +1,6 @@
 ## Условие:
 <img width="791" height="115" alt="image" src="https://github.com/user-attachments/assets/23bf1822-7bb1-4858-97c7-b761c1b5f43f" />
+
 ## Код:
 
     #include <stdio.h>
